@@ -1,0 +1,38 @@
+.hairtsag{
+    background-color: rgb(102, 46, 181);
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pink{
+    background-color:rgb(102, 46, 181) ;
+}
+.yellow{
+    background-color: rgb(255, 154, 4);
+}
+.green{
+    background-color: rgb(4, 183, 4);
+}
+.hairtsag h1{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0;
+}
+.hairtsag p{
+    font-size: 28px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.darah-heseg{
+    border: 3px solid;
+    height: 80vh;
+    border-radius: 30px;
+    margin-top: 20px;
+}

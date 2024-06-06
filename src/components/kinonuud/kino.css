@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+.movie{
+
+}
+
+.movie img{
+    width: 300px;
+    object-fit: cover;
+}
